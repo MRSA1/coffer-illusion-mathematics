@@ -199,8 +199,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 **Md. Rad Sarar Anando**  
 📨 radsararanando@gmail.com
 
-**Md. Towkir Ahmmed Rownak**  
-📨 [Your Email Address]
+
 
 ---
 
@@ -212,15 +211,13 @@ We thank the reviewers for their valuable comments and suggestions that helped i
 
 ## 🔗 Repository Link
 
-**https://github.com/YOUR_USERNAME/coffer-illusion-mathematics**
+**https://github.com/MRSA1/coffer-illusion-mathematics**
 
-*Replace `YOUR_USERNAME` with your actual GitHub username*
 
----
-
-## ⭐ Star this repository if you find it useful!
 
 ---
+
+
 
 *Last updated: June 2026*
 ```
