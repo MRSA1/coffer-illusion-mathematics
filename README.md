@@ -170,7 +170,22 @@ jupyter notebook notebooks/coffer_illusion_demo.ipynb
 *Results from 200 trials with random A_C (0-1.6), radius (8-40 px), wavelength (6-12 px)*
 
 ---
+## 📋 Table S1: Monte-Carlo Simulation Parameters
 
+| Parameter | Symbol | Range | Distribution |
+|-----------|--------|-------|--------------|
+| Rectangle amplitude | \(A_R\) | 1.0 | Fixed |
+| Stripe amplitude | \(A_C\) | [0, 1.6] | Uniform |
+| Circle radius | \(r\) | [8, 40] px | Uniform |
+| Stripe wavelength | \(\lambda\) | [6, 12] px | Uniform |
+| Image size | \(N\) | 128 px | Fixed |
+| Gabor \(\sigma_x, \sigma_y\) | — | 4 px | Fixed |
+| Gabor wavelength | — | 8 px | Fixed |
+| Number of orientations | \(n_\theta\) | 12 | Fixed |
+| Accumulator threshold | — | mean + 3σ | Fixed |
+| Vote minimum | — | 2 votes | Fixed |
+
+---
 ## 📖 Citation
 
 If you use this code in your research, please cite:
