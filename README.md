@@ -8,7 +8,7 @@ This repository contains the complete code and supplementary materials for the p
 
 ---
 
-## 📌 Abstract
+## Abstract
 
 The Coffer Illusion is an image that can be seen either as a grid of rectangles or as a set of hidden circles. This repository provides the mathematical and computational framework for analyzing why rectangles are seen first and circles emerge later.
 
@@ -16,7 +16,7 @@ We derive closed-form expressions for geometric constants (α_R, α_C, F(Δθ,σ
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 coffer-illusion-mathematics/
@@ -41,7 +41,7 @@ coffer-illusion-mathematics/
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 Install dependencies:
 
@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Usage
+## Usage
 
 ### Generate all figures (S1-S5):
 
@@ -103,7 +103,7 @@ jupyter notebook notebooks/coffer_illusion_demo.ipynb
 
 ---
 
-## 📊 Figures
+## Figures
 
 | Figure | Description | Paper Reference |
 |:------:|-------------|:---------------:|
@@ -127,7 +127,7 @@ jupyter notebook notebooks/coffer_illusion_demo.ipynb
 
 ---
 
-## 📐 Key Mathematical Results
+## Key Mathematical Results
 
 ### Closed-Form Constants (Paper Eqs. 4, 5, 6)
 
@@ -158,7 +158,7 @@ jupyter notebook notebooks/coffer_illusion_demo.ipynb
 
 ---
 
-## 📊 Monte-Carlo Simulation Results (Table 1)
+## Monte-Carlo Simulation Results (Table 1)
 
 | Category | Percentage | Interpretation |
 |:--------:|:----------:|:---------------|
@@ -170,7 +170,7 @@ jupyter notebook notebooks/coffer_illusion_demo.ipynb
 *Results from 200 trials with random A_C (0-1.6), radius (8-40 px), wavelength (6-12 px)*
 
 ---
-## 📋 Table S1: Monte-Carlo Simulation Parameters
+## Table S1: Monte-Carlo Simulation Parameters
 
 | Parameter | Symbol | Range | Distribution |
 |-----------|--------|-------|--------------|
@@ -186,7 +186,7 @@ jupyter notebook notebooks/coffer_illusion_demo.ipynb
 | Vote minimum | — | 2 votes | Fixed |
 
 ---
-## 📖 Citation
+## Citation
 
 If you use this code in your research, please cite:
 
@@ -203,13 +203,13 @@ If you use this code in your research, please cite:
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 📧 Contact
+## Contact
 
 **Md. Rad Sarar Anando**  
 📨 mrad98759@gmail.com
@@ -218,13 +218,13 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 We thank the reviewers for their valuable comments and suggestions that helped improve this work.
 
 ---
 
-## 🔗 Repository Link
+## Repository Link
 
 **https://github.com/MRSA1/coffer-illusion-mathematics**
 
