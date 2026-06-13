@@ -115,7 +115,7 @@ jupyter notebook notebooks/coffer_illusion_demo.ipynb
 | **S2** | 2D Phase Diagram: α_C/α_R vs kσ_x and σ_x/σ_y | SM Eq. S14 |
 | **S3** | Monte-Carlo Scatter Plot (four outcome categories) | Main Paper Table 1 |
 | **S4** | Example images for different A_C values | Main Paper Eq. 1 |
-| **S5** | Gabor kernel visualization | Main Paper Eq. 2, SM Eq. S2 |
+| **S5** | Gabor kernel visualization | Main Paper Eq. 2, Supplementary Eq. S2 |
 
 ### Figure Previews
 
@@ -166,10 +166,10 @@ jupyter notebook notebooks/coffer_illusion_demo.ipynb
 
 | Category | Percentage | Interpretation |
 |:--------:|:----------:|:---------------|
-| **Local Only** | ≈42% | Rectangle dominant (seen first) |
-| **Global Only** | ≈26% | Circle detected (emerges later) |
-| **Both** | ≈19% | Both cues present simultaneously |
-| **Neither** | ≈13% | No clear dominance |
+| **Local Only** | ≈35% | Rectangle dominant (seen first) |
+| **Global Only** | ≈10% | Circle detected (emerges later) |
+| **Both** | ≈8.5% | Both cues present simultaneously |
+| **Neither** | ≈46.5% | No clear dominance |
 
 *Results from 200 trials with random A_C (0-1.6), radius (8-40 px), wavelength (6-12 px)*
 
@@ -238,5 +238,5 @@ We thank the reviewers for their valuable comments and suggestions that helped i
 
 
 
-*Last updated: June 2026*
+*Last updated: June 13, 2026*
 ```
