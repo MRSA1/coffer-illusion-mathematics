@@ -7,7 +7,8 @@ This repository contains the complete code and supplementary materials for the p
 **Authors:** Md. Rad Sarar Anando, Md. Towkir Ahmmed Rownak
 
 <img width="2037" height="1592" alt="Fig3" src="https://github.com/user-attachments/assets/8f92c124-35f1-4ce7-9a56-33dcccb02ec3" />
-Figure: Monte-Carlo simulation outcomes. Scatter plot overlaying local-dominance vs global-integration outcomes from 200 randomized trials: Local Only (blue squares, 70 points, AC<0.5), Global Only (orange circles, 20 points, AC>0.8), Both (green triangles, 17 points, 0.6<AC<1.0), Neither (red crosses, 93 points, AC∈[0.3,0.9] with small radius or high frequency).
+Figure: Monte-Carlo simulation outcomes. Scatter plot overlaying local-dominance vs global-integration outcomes from 200 randomized trials: Local Only (blue squares, 70 points, AC<0.5), Global Only (orange circles, 20 points, AC>0.8), Both (green triangles, 17 points, 0.6<AC<1.0), Neither (red crosses, 93 points, AC∈(0.3,0.9) with small radius or high frequency).
+
 
 ---
 
